@@ -1,0 +1,26 @@
+Euro Trip:
+You need to calculate the price of a given quantity of "wurst" in Deutsche Marks. Read the quantity as a double value and print the price in marks, given the following:
+•	The price of 1 kg wurst is 1.20 BGN
+•	The exchange rate is 4210500000000 DM : 1 BGN 
+Print the price, rounded to the second digit after the decimal separator.
+
+Transport Price:
+A student travels n kilometers using only one type of transport based on the distance that he will travel:
+•	Taxi: Initial tax: 0.70 USD. Daytime cost: 0.79 USD/km. Night time cost: 0.90 USD/km.
+•	Bus: Day / Night tariff: 0.09 USD/km. For at least 20 kilometers.
+•	Train: Day / Night tariff: 0.06 USD/km. For at least 100 kilometers.
+Write a program that calculates the price of the trip by a given distance and time of day.
+Format the output to the second digit after the decimal separator.
+
+Product of Numbers [N..M]:
+Write a program that calculates the product of all numbers in the interval [n..m] by given n and m
+
+Lottery:
+Print all combinations from TOTO 3/10 lottery (like 6/49 but with less combinations)
+
+Extract Bit from Integer:
+Write a program that extracts from given positive integer n the value of given bit at index p. The bits are counted from right to left, starting from bit 0.
+
+Modify a Bit:
+We are given a positive integer number n, a position p and a bit value v (v=0 or 1). Write a program that modifies n to hold the value v at the position p from the binary representation of n while preserving all other bits in n. 
+Print the decimal representation of the resulting number.
