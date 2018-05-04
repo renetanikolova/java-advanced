@@ -24,3 +24,18 @@ Write a program that extracts from given positive integer n the value of given b
 Modify a Bit:
 We are given a positive integer number n, a position p and a bit value v (v=0 or 1). Write a program that modifies n to hold the value v at the position p from the binary representation of n while preserving all other bits in n. 
 Print the decimal representation of the resulting number.
+
+Triangle Area:
+Write a program that reads 3 points in the plane (with integer x and y as coordinates), calculates and prints the area of the triangle composed by these 3 points. Round the result to a whole number. In case the three points do not form a triangle, print "0" as result.
+
+Formatting Numbers:
+Write a program that reads 3 numbers: 
+•	an integer a (0 ≤ a ≤ 500)
+•	a floating-point b
+•	a floating-point c
+Print them in 4 virtual columns on the console, separated with a pipe '|'. Each column should have a width of 10 characters. 
+•	First, the number a should be printed in hexadecimal, left aligned
+•	Second, the number a should be printed in binary form, padded with zeroes
+•	Third, the number b should be printed with 2 digits after the decimal point, right aligned
+•	Lastly, the number c should be printed with 3 digits after the decimal point, left aligned
+You will receive a, b and c on a single line, separated by one or more white spaces.
