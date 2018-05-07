@@ -1,3 +1,3 @@
 java-advanced
 
-Repository for Java tasks with description.
+Repository for Java tasks from SoftUni Judge
